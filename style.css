@@ -102,6 +102,7 @@ display: flex;
 flex-flow: column wrap;
 justify-content: center;
 align-items: center;
+border-color: var(--clr-neutral-300);
 }
 
 .cards{
